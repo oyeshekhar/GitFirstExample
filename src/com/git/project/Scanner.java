@@ -7,7 +7,7 @@ public class Scanner {
 
 		for(int i=0; i<4; i++)
 		{
-			System.out.println("value of i : "+i);
+			System.out.println("next value of i : "+i);
 		}
 	}
 
