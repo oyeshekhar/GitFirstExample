@@ -6,6 +6,8 @@ public class GitTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("git test");
+		String name = "shekhar rathore";
+		System.out.println(name);
 	}
 
 }
