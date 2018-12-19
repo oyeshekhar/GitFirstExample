@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.println("git test");
 		String name = "shekhar rathore";
 		System.out.println(name);
+		System.out.println("pushing new change on master...");
 	}
 
 }
