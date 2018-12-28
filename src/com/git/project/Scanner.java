@@ -12,7 +12,7 @@ public class Scanner {
 			
 		}
 		
-		System.out.println("added in test 2 branch...");
+		
 	}
 
 }
