@@ -5,7 +5,7 @@ public class GitTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//shekhar rathore
+		//shekhar kumar rathore
 		System.out.println("git test");
 		String name = "shekhar rathore";
 		System.out.println(name);
